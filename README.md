@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.11.
 
 # Demo for the APP available on this link:
-password-generator-c8axf56lo-hanan-fadel.vercel.app 
+https://password-generator-c8axf56lo-hanan-fadel.vercel.app/ 
 
 
 ## Development server
